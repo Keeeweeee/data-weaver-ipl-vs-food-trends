@@ -79,8 +79,6 @@ the-data-weaver/
 └── .kiro/
     ├── SETUP.md           # Detailed setup guide
     ├── API-GUIDE.md       # API documentation
-    ├── TROUBLESHOOTING.md # Common issues & solutions
-    └── BLOG-POST.md       # Complete development blog
 ```
 
 ---
