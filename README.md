@@ -230,9 +230,6 @@ Comprehensive documentation is available in the `.kiro/` folder:
 
 - **[SETUP.md](.kiro/SETUP.md)** - Detailed setup instructions
 - **[API-GUIDE.md](.kiro/API-GUIDE.md)** - API integration details
-- **[TROUBLESHOOTING.md](.kiro/TROUBLESHOOTING.md)** - Common issues & solutions
-- **[BLOG-POST.md](.kiro/BLOG-POST.md)** - Complete development journey
-
 ---
 
 ## Key Insights
@@ -305,17 +302,6 @@ No build process needed - it's a static site with a Node.js server!
 
 ---
 
-## Contributing
-
-This is a Week 3 Challenge project, but suggestions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
----
-
 ## License
 
 MIT License - feel free to use this project for learning and inspiration!
@@ -331,19 +317,10 @@ MIT License - feel free to use this project for learning and inspiration!
 
 ---
 
-## Contact & Links
-
-- 📧 Questions? Open an issue
-- 📝 Read the full development blog in `.kiro/BLOG-POST.md`
-- 🐛 Found a bug? Check `.kiro/TROUBLESHOOTING.md` first
-
----
-
 ## Project Status
 
 ✅ **Complete** - All features implemented  
 ✅ **Working** - Dashboard displays perfectly  
-✅ **Documented** - Comprehensive guides available  
 ✅ **Production-Ready** - Handles all edge cases  
 ✅ **Submission-Ready** - Meets all challenge requirements  
 
