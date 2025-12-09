@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Data Weaver - IPL vs Food Delivery Interest</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏏 The Data Weaver</h1>
+            <p class="subtitle">IPL Matches vs Food Delivery Interest</p>
+            <p class="description">Exploring the correlation between cricket fever and food ordering behavior</p>
+        </header>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Total Matches</h3>
+                <p class="stat-value" id="totalMatches">-</p>
+            </div>
+            <div class="stat-card">
+                <h3>Avg Interest (Match Days)</h3>
+                <p class="stat-value" id="avgMatchDay">-</p>
+            </div>
+            <div class="stat-card">
+                <h3>Avg Interest (Non-Match Days)</h3>
+                <p class="stat-value" id="avgNonMatchDay">-</p>
+            </div>
+            <div class="stat-card">
+                <h3>Correlation</h3>
+                <p class="stat-value" id="correlation">-</p>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Timeline Analysis</h2>
+            <canvas id="timelineChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+            <h2>Match Day vs Non-Match Day Comparison</h2>
+            <canvas id="comparisonChart"></canvas>
+        </div>
+
+        <div class="insights">
+            <h2>Key Insights</h2>
+            <div id="insightsList"></div>
+        </div>
+
+        <footer>
+            <p>Week 3 Challenge - Model Context Protocol & External Data Integration</p>
+            <p>Data sources: IPL Match Schedule & Food Delivery Interest Metrics</p>
+        </footer>
+    </div>
+
+    <script src="js/dataFetcher.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

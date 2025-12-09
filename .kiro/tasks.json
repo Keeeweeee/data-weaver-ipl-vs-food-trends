@@ -1,0 +1,46 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Server",
+      "type": "shell",
+      "command": "npm start",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Install Dependencies",
+      "type": "shell",
+      "command": "npm install",
+      "problemMatcher": []
+    },
+    {
+      "label": "Test APIs",
+      "type": "shell",
+      "command": "curl http://localhost:3000/api/health && curl http://localhost:3000/api/cricket/matches",
+      "problemMatcher": []
+    },
+    {
+      "label": "Open Dashboard",
+      "type": "shell",
+      "command": "start http://localhost:3000",
+      "windows": {
+        "command": "start http://localhost:3000"
+      },
+      "linux": {
+        "command": "xdg-open http://localhost:3000"
+      },
+      "osx": {
+        "command": "open http://localhost:3000"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

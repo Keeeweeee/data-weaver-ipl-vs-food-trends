@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2024-03-22",
+    "match": "Chennai Super Kings vs Royal Challengers Bangalore",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "type": "league"
+  },
+  {
+    "date": "2024-03-23",
+    "match": "Mumbai Indians vs Delhi Capitals",
+    "venue": "Wankhede Stadium, Mumbai",
+    "type": "league"
+  },
+  {
+    "date": "2024-03-24",
+    "match": "Kolkata Knight Riders vs Sunrisers Hyderabad",
+    "venue": "Eden Gardens, Kolkata",
+    "type": "league"
+  },
+  {
+    "date": "2024-03-26",
+    "match": "Punjab Kings vs Rajasthan Royals",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "type": "league"
+  },
+  {
+    "date": "2024-03-27",
+    "match": "Gujarat Titans vs Chennai Super Kings",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "type": "league"
+  },
+  {
+    "date": "2024-03-29",
+    "match": "Royal Challengers Bangalore vs Mumbai Indians",
+    "venue": "M. Chinnaswamy Stadium, Bangalore",
+    "type": "league"
+  },
+  {
+    "date": "2024-03-30",
+    "match": "Delhi Capitals vs Kolkata Knight Riders",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "type": "league"
+  },
+  {
+    "date": "2024-04-01",
+    "match": "Sunrisers Hyderabad vs Punjab Kings",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+    "type": "league"
+  },
+  {
+    "date": "2024-04-03",
+    "match": "Rajasthan Royals vs Gujarat Titans",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "type": "league"
+  },
+  {
+    "date": "2024-04-05",
+    "match": "Chennai Super Kings vs Mumbai Indians",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "type": "league"
+  },
+  {
+    "date": "2024-04-07",
+    "match": "Kolkata Knight Riders vs Royal Challengers Bangalore",
+    "venue": "Eden Gardens, Kolkata",
+    "type": "league"
+  },
+  {
+    "date": "2024-04-08",
+    "match": "Punjab Kings vs Delhi Capitals",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "type": "league"
+  },
+  {
+    "date": "2024-04-10",
+    "match": "Mumbai Indians vs Sunrisers Hyderabad",
+    "venue": "Wankhede Stadium, Mumbai",
+    "type": "league"
+  },
+  {
+    "date": "2024-04-12",
+    "match": "Gujarat Titans vs Rajasthan Royals",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "type": "league"
+  },
+  {
+    "date": "2024-04-14",
+    "match": "Royal Challengers Bangalore vs Chennai Super Kings",
+    "venue": "M. Chinnaswamy Stadium, Bangalore",
+    "type": "league"
+  }
+]
